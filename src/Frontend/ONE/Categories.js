@@ -8,7 +8,7 @@ function Categories() {
     return (
         <div>
             <p className='text-center mt-28 text-4xl font-bold'>MEN</p>
-            <p className='text-center text-orange-700'>COLLECTION 2022</p>
+            <p className='text-center text-orange-700'>COLLECTIONs 2022</p>
             <Container  className='mt-4'>
                 <Row className='py-34 px-24'>
                     <Col xxl={4} xl={4} lg={4} md={4} sm={12}>
