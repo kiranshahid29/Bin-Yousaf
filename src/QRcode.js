@@ -7,7 +7,7 @@ function QRcode() {
     <div>
        <header className="QRcode-header">
       <p>Scan My QR Code</p>
-      <QRCodeCanvas value="https://wa.link/ka8uw1" size={300}/>,
+      <QRCodeCanvas value="https://github.com/" size={300}/>,
     </header>
     </div>
   )
